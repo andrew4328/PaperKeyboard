@@ -15,3 +15,4 @@ TODO
 * crisp tap recognition (currently any hover triggers the key)
 * programmable finger differentiation
 * compress it into a hub software with easy installation and integrations
+* embedded systems support
